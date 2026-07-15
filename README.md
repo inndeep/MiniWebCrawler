@@ -63,5 +63,4 @@ python main.py -u [https://example.com](https://example.com)
 This tool is developed strictly for **legal, authorized penetration testing** and educational purposes. Using this tool against targets without explicit permission is illegal. The developer assumes no liability and is not responsible for any misuse or damage caused by this program. Use it only on systems you own or have explicit permission to test (e.g., Bug Bounty programs, VDPs).
 
 ```
-
 ```
